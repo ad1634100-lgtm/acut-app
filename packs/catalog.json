@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "app": "Acut",
+  "note": "Open / self-made FFmpeg effect packs \u2014 NOT CapCut proprietary assets",
+  "packs": [
+    {
+      "id": "pro_filters_cinematic",
+      "title": "Cinematic Pro",
+      "type": "filter",
+      "description": "8 CapCut-style filters \u00b7 open FFmpeg defs",
+      "version": 1,
+      "sizeBytes": 607,
+      "zipUrl": "https://ad1634100-lgtm.github.io/acut-app/packs/pro_filters_cinematic.zip",
+      "previewColor": "00E6C7",
+      "itemCount": 8
+    },
+    {
+      "id": "pro_effects_motion",
+      "title": "Motion FX Pro",
+      "type": "effect",
+      "description": "8 CapCut-style effects \u00b7 open FFmpeg defs",
+      "version": 1,
+      "sizeBytes": 594,
+      "zipUrl": "https://ad1634100-lgtm.github.io/acut-app/packs/pro_effects_motion.zip",
+      "previewColor": "FF453A",
+      "itemCount": 8
+    },
+    {
+      "id": "pro_effects_glow",
+      "title": "Glow & Mood",
+      "type": "effect",
+      "description": "6 CapCut-style effects \u00b7 open FFmpeg defs",
+      "version": 1,
+      "sizeBytes": 498,
+      "zipUrl": "https://ad1634100-lgtm.github.io/acut-app/packs/pro_effects_glow.zip",
+      "previewColor": "BF5AF2",
+      "itemCount": 6
+    }
+  ]
+}
