@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "app": "Acut",
   "note": "Open / self-made FFmpeg effect packs \u2014 NOT CapCut proprietary assets",
   "packs": [
@@ -12,6 +12,28 @@
       "sizeBytes": 607,
       "zipUrl": "https://ad1634100-lgtm.github.io/acut-app/packs/pro_filters_cinematic.zip",
       "previewColor": "00E6C7",
+      "itemCount": 8
+    },
+    {
+      "id": "pro_filters_food",
+      "title": "Food Pro",
+      "type": "filter",
+      "description": "8 food-grade CapCut-style filters",
+      "version": 1,
+      "sizeBytes": 531,
+      "zipUrl": "https://ad1634100-lgtm.github.io/acut-app/packs/pro_filters_food.zip",
+      "previewColor": "FF8A65",
+      "itemCount": 8
+    },
+    {
+      "id": "pro_filters_retro",
+      "title": "Retro Film Pack",
+      "type": "filter",
+      "description": "8 retro/film CapCut-style filters",
+      "version": 1,
+      "sizeBytes": 628,
+      "zipUrl": "https://ad1634100-lgtm.github.io/acut-app/packs/pro_filters_retro.zip",
+      "previewColor": "C4A574",
       "itemCount": 8
     },
     {
@@ -34,6 +56,17 @@
       "sizeBytes": 498,
       "zipUrl": "https://ad1634100-lgtm.github.io/acut-app/packs/pro_effects_glow.zip",
       "previewColor": "BF5AF2",
+      "itemCount": 6
+    },
+    {
+      "id": "pro_text_pop",
+      "title": "Text Pop Styles",
+      "type": "text",
+      "description": "6 CapCut-style text presets",
+      "version": 1,
+      "sizeBytes": 447,
+      "zipUrl": "https://ad1634100-lgtm.github.io/acut-app/packs/pro_text_pop.zip",
+      "previewColor": "00E6C7",
       "itemCount": 6
     }
   ]
